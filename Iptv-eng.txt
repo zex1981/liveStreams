@@ -1,5 +1,10 @@
-ime="Test"
-url="http://cds-se1.se.cds-sr1.vmo1.sbb.rs/live/disk/rts_1_srb/hls/hls-audio101_srp%3D64000-video%3D1400000.m3u8|User-Agent=Mozilla/5.0"
+ime="FOX Crime"
+url="http://cdn.iptv.amis.net/LIVE/FOXCRIMEHRVATSKA/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0"
+img="http://tvprofil.net/img/kanali-logo/viasat-history.png"
+epg="73"
+
+ime="Universal Channel"
+url="http://cdn.iptv.amis.net/ts/UniversalChannelCRO/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0"
 img="http://tvprofil.net/img/kanali-logo/viasat-history.png"
 epg="73"
 
