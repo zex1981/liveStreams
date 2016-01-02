@@ -1,4 +1,4 @@
-ime="D3GO"
+ime="Test"
 url="http://cds-sr1.vmo1.sbb.rs/live/disk/rts_1_srb/hls/rts_1_srb.m3u8|User-Agent=Mozilla/5.0"
 img="http://tvprofil.net/img/kanali-logo/viasat-history.png"
 epg="73"
