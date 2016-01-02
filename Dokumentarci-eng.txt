@@ -1,5 +1,10 @@
-ime="Viasat History"
+ime="Disney"
 url="http://cdn.iptv.amis.net/LIVE/CRODISNEY/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0"
+img="http://tvprofil.net/img/kanali-logo/viasat-history.png"
+epg="73"
+
+ime="Viasat History"
+url="http://cdn.iptv.amis.net/LIVE/CROHISTORY/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0"
 img="http://tvprofil.net/img/kanali-logo/viasat-history.png"
 epg="73"
 
@@ -7,7 +12,6 @@ ime="Viasat Explore"
 url="http://cdn.iptv.amis.net/LIVE/CROEXPLORER/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0"
 img="http://tvprofil.net/img/kanali-logo/viasat-explore.png"
 epg="74"
-
 
 ime="History Channel"
 url="http://cdn.iptv.amis.net/LIVE/CROHISTORYCH/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0"
