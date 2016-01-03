@@ -1,3 +1,8 @@
+ime="FOX Pink"
+url="mms://212.200.191.94/pink?ctrl=naD4x7gk9JOr3%2Fs5HJQa1kswCsQmcNKl15YSP5wrYksyWFgZ61%2F9AA%3d%3d|User-Agent=Mozilla/5.0"
+img="http://tvprofil.net/img/kanali-logo/PINK-logo.jpg"
+epg="73"
+
 ime="FOX Crime"
 url="http://cdn.iptv.amis.net/LIVE/FOXCRIMEHRVATSKA/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0"
 img="http://tvprofil.net/img/kanali-logo/viasat-history.png"
