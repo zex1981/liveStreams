@@ -1,9 +1,9 @@
-ime="Discovery Channel USA"
+ime="Discovery Channel"
 url="http://31.220.41.103:80/LiveEdge/DiscoveryChannelUSAHD/media_w726352607_b1000000_46748.m3u8?token=07ab5e2c898d1c1e77b2dd8403a82440|User-Agent=Mozilla/5.0"
 img="http://logok.org/wp-content/uploads/2014/04/Discovery-Channel-logo.png"
 epg="73"
 
-ime="History2 USA"
+ime="History2"
 url="http://31.220.40.105:80/LiveEdge/H2US/media_w555600756_b1000000_46760.m3u8?token=1820694b366957c79c9ab564aac28d51
 |User-Agent=Mozilla/5.0"
 img="https://tvbtn.files.wordpress.com/2013/09/h2.jpg"
