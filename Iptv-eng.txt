@@ -1,6 +1,5 @@
 ime="FOX Crime"
 url="http://31.220.40.105:80/LiveEdge/H2US/chunklist_w1213649428_b1000000.m3u8?token=e0711ad186ffffb3f5a75d706d180abd
-|User-Agent=Mozilla/5.0"
 img="http://tvprofil.net/img/kanali-logo/viasat-history.png"
 epg="73"
 
