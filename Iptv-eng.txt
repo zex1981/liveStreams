@@ -1,5 +1,5 @@
 ime="FOX Crime"
-url="http://31.220.40.105:80/LiveEdge/H2US/chunklist_w1213649428_b1000000.m3u8|User-Agent=Mozilla/5.0"
+url="http://cdn.iptv.amis.net/LIVE/FOXCRIMEHRVATSKA/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0"
 img="http://tvprofil.net/img/kanali-logo/viasat-history.png"
 epg="73"
 
