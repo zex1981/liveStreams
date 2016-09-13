@@ -109,7 +109,7 @@ http://cdn.iptv.amis.net/ts/Discovery/stream_wifi_1200k.m3u8
 #EXTINF:-1,Disney
 http://cdn.iptv.amis.net/ts/DiscoveryChannel/stream_wifi_1200k.m3u8
 
-#EXTINF:-1,DisneyChannel
+#EXTINF:0,DisneyChannel
 http://cdn.iptv.amis.net/ts/Disney/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 
 #EXTINF:-1,DisneyChannelCRO
