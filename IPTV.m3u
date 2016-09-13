@@ -1,0 +1,113 @@
+#EXTM3U
+
+ 
+
+#EXTINF:-1, ZEX FREE LIST
+
+skip
+
+#EXTINF:-1, List updated 10.13.2016
+
+skip
+
+#EXTINF:-1,[COLOR green]--- HRVATSKI PROGRAMI ---[/COLOR]
+
+#EXTM3U
+
+
+
+
+
+#EXTINF:0,HRT 1 
+http://cdn.iptv.amis.net/LIVE/HRT1/stream_wifi_840k.m3u8|User-Agent=Mozilla/5.0
+
+#EXTINF:0,HRT 2
+http://cdn.iptv.amis.net/LIVE/HRT2/stream_wifi_840k.m3u8|User-Agent=Mozilla/5.0
+
+#EXTINF:0,HRT 3
+http://cdn.iptv.amis.net/LIVE/HRT3/stream_wifi_840k.m3u8|User-Agent=Mozilla/5.0
+
+#EXTINF:0,RTL
+http://cdn.iptv.amis.net/LIVE/RTLHrvatska/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
+
+#EXTINF:0,RTL 2
+http://cdn.iptv.amis.net/LIVE/RTL2Hrvatska/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
+
+#EXTINF:0,RTL Living
+http://cdn.iptv.amis.net/ts/RTLLIVING/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
+
+#EXTINF:0,Televizija STV Osijek
+mms://89.201.164.181/stv
+
+#EXTINF:0,Universal Channel
+http://cdn.iptv.amis.net/ts/UniversalChannelCRO/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
+
+#EXTINF:0,Klasik TV
+http://cdn.iptv.amis.net/LIVE/KlasikTV/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
+
+#EXTINF:0,FOX Life
+http://cdn.iptv.amis.net/LIVE/FOXLIFEHRVATSKA/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
+
+#EXTINF:0,FOX Crime
+http://cdn.iptv.amis.net/LIVE/FOXCRIMEHRVATSKA/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
+
+#EXTINF:0,CBS Reality
+http://cdn.iptv.amis.net/LIVE/CROREALITY/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0  
+
+#EXTINF:0,Sportska TV
+http://wowza.h1telekom.hr:1935/sporttv/smil:sptv.smil/playlist.m3u8
+
+#EXTINF:0,ZDRAVA TV
+rtmp://live.videonet.rs/videonet-live/play/videonet4.stream
+
+#EXTINF:0,RTV Banovina
+rtmp://video.radio-banovina.hr/live/myStream
+
+#EXTINF:0,TV Student
+rtmp://213.202.73.202/iskon/studentska_b2.stream
+
+#EXTINF:-1,[COLOR green]--- DOKUMENTARNI PROGRAMI ---[/COLOR] 
+#EXTM3U
+
+#EXTINF:0,Nasa TV
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
+
+#EXTINF:0,National Geographic
+http://cdn.iptv.amis.net/LIVE/NGCCroatia/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
+
+#EXTINF:0,National Geographic (slo)
+http://cdn.iptv.amis.net/ts/NatGeo/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
+
+#EXTINF:0,Nat Geo Wild
+http://cdn.iptv.amis.net/LIVE/NGCWildCRO/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
+
+#EXTINF:0,Nat Geo Wild (slo)
+http://cdn.iptv.amis.net/ts/NatGeoW/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
+
+#EXTINF:0,DISCOVERY (slo)
+http://cdn.iptv.amis.net/ts/Discovery/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
+
+#EXTINF:0,Animal Planet (SLO)
+http://cdn.iptv.amis.net/LIVE/Animal/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
+
+#EXTINF:0,Travel Channel
+http://cdn.iptv.amis.net/LIVE/CROTRAVEL/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
+
+#EXTINF:0,History Channel
+http://cdn.iptv.amis.net/LIVE/CROHISTORYCH/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
+
+#EXTINF:0,Viasat History
+http://cdn.iptv.amis.net/LIVE/CROHISTORY/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
+
+#EXTINF:0,Viasat Explorer
+http://cdn.iptv.amis.net/LIVE/CROEXPLORER/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
+
+#EXTINF:0,24Kitchen
+http://cdn.iptv.amis.net/LIVE/CRODOQ/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
+
+#EXTINF:0,Russia Today Documentary
+http://rt.ashttp6.visionip.tv/live/RT_Doc-SD/playlist.m3u8
+
+#EXTINF:0,Hunting and Fishing
+http://str.trofey.net:1935/live/2_max.smil/chunklist_w158057594_b4000000.m3u8?id=2&session=5488c6087e1ea6.57082302
+
