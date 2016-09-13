@@ -16,28 +16,28 @@ skip
 
 
 #EXTINF:0,24sataTV
-http://cdn.iptv.amis.net/ts/24SATA/stream_wifi_1200k.m3u8
+http://cdn.iptv.amis.net/ts/24SATA/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 
 #EXTINF:0,AKanal
-http://cdn.iptv.amis.net/ts/24sataTV/stream_wifi_1200k.m3u8
+http://cdn.iptv.amis.net/ts/24sataTV/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 
 #EXTINF:0,Animal
-http://cdn.iptv.amis.net/ts/AKanal/stream_wifi_1200k.m3u8
+http://cdn.iptv.amis.net/ts/AKanal/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 
 #EXTINF:0,AnimalPlanet
-http://cdn.iptv.amis.net/ts/Animal/stream_wifi_1200k.m3u8
+http://cdn.iptv.amis.net/ts/Animal/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 
 #EXTINF:0,AntenaZagreb
-http://cdn.iptv.amis.net/ts/AnimalPlanet/stream_wifi_1200k.m3u8
+http://cdn.iptv.amis.net/ts/AnimalPlanet/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 
 #EXTINF:0,BBCKNOWLEDGE
-http://cdn.iptv.amis.net/ts/AntenaZagreb/stream_wifi_1200k.m3u8
+http://cdn.iptv.amis.net/ts/AntenaZagreb/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 
 #EXTINF:0,BBCKnowledge
-http://cdn.iptv.amis.net/ts/BBCKNOWLEDGE/stream_wifi_1200k.m3u8
+http://cdn.iptv.amis.net/ts/BBCKNOWLEDGE/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 
 #EXTINF:0,BLOOMBERG
-http://cdn.iptv.amis.net/ts/BBCKnowledge/stream_wifi_1200k.m3u8
+http://cdn.iptv.amis.net/ts/BBCKnowledge/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 
 #EXTINF:0,BabyTV
 http://cdn.iptv.amis.net/ts/BLOOMBERG/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
@@ -122,6 +122,9 @@ http://cdn.iptv.amis.net/ts/DaVinciLearning/stream_wifi_1200k.m3u8|User-Agent=Mo
 
 #EXTINF:0,DiscoveryChannel
 http://cdn.iptv.amis.net/ts/Discovery/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
+
+#EXTINF:0,Discovery ID
+http://80.80.160.168/live/5/live.m3u8|User-Agent=Mozilla/5.0
 
 #EXTINF:0,Disney
 http://cdn.iptv.amis.net/ts/DiscoveryChannel/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
