@@ -14,6 +14,77 @@ skip
 
 #EXTM3U
 
+#EXTINF:-1,EX YU: Minimax
+http://globiptv.com:8000/live/saib/fares/812.m3u8
+#EXTINF:-1,EX YU: CINEMAX
+http://globiptv.com:8000/live/saib/fares/694.m3u8
+#EXTINF:-1,EX YU: CINEMAX 2
+http://globiptv.com:8000/live/saib/fares/874.m3u8
+#EXTINF:-1,EX YU: CINESTAR PREMIERE 1
+http://globiptv.com:8000/live/saib/fares/758.m3u8
+#EXTINF:-1,EX YU: CINESTAR PREMIERE 2
+http://globiptv.com:8000/live/saib/fares/695.m3u8
+#EXTINF:-1,EX YU: CINESTAR ACTION
+http://globiptv.com:8000/live/saib/fares/2238.m3u8
+#EXTINF:-1,EX YU: PINK WORLD
+http://globiptv.com:8000/live/saib/fares/676.m3u8
+#EXTINF:-1,EX YU: PINK WESTERN
+http://globiptv.com:8000/live/saib/fares/677.m3u8
+#EXTINF:-1,EX YU: PINK THRILLER
+http://globiptv.com:8000/live/saib/fares/678.m3u8
+#EXTINF:-1,EX YU: PINK ACTION
+http://globiptv.com:8000/live/saib/fares/1317.m3u8
+#EXTINF:-1,EX YU: PINK BiH
+http://globiptv.com:8000/live/saib/fares/664.m3u8
+#EXTINF:-1,EX YU: PINK ZABAVA
+http://globiptv.com:8000/live/saib/fares/1086.m3u8
+#EXTINF:-1,EX YU: PINK CRIME & MYSTERY
+http://globiptv.com:8000/live/saib/fares/757.m3u8
+#EXTINF:-1,EX YU: Pink Pedia
+http://globiptv.com:8000/live/saib/fares/1088.m3u8
+#EXTINF:-1,EX YU: PINK FOLK
+http://globiptv.com:8000/live/saib/fares/689.m3u8
+#EXTINF:-1,EX YU: PINK FOLK 2
+http://globiptv.com:8000/live/saib/fares/688.m3u8
+#EXTINF:-1,EX YU: Pink Music
+http://globiptv.com:8000/live/saib/fares/1089.m3u8
+#EXTINF:-1,EX YU: Pink Extra
+http://globiptv.com:8000/live/saib/fares/1087.m3u8
+#EXTINF:-1,EX YU: PINK SOAP
+http://globiptv.com:8000/live/saib/fares/679.m3u8
+#EXTINF:-1,EX YU: PINK SCI-FI & FANTASY
+http://globiptv.com:8000/live/saib/fares/680.m3u8
+#EXTINF:-1,EX YU: PINK ROMANCE-
+http://globiptv.com:8000/live/saib/fares/681.m3u8
+#EXTINF:-1,EX YU: PINK Movies
+http://globiptv.com:8000/live/saib/fares/1802.m3u8
+#EXTINF:-1,EX YU: PINK REALITY
+http://globiptv.com:8000/live/saib/fares/682.m3u8
+#EXTINF:-1,EX YU: PINK PREMIUM
+http://globiptv.com:8000/live/saib/fares/683.m3u8
+#EXTINF:-1,EX YU: PINK PLUS
+http://globiptv.com:8000/live/saib/fares/684.m3u8
+#EXTINF:-1,EX YU: PINK M
+http://globiptv.com:8000/live/saib/fares/685.m3u8
+#EXTINF:-1,EX YU: PINK KIDS
+http://globiptv.com:8000/live/saib/fares/686.m3u8
+#EXTINF:-1,EX YU: PINK HOROR
+http://globiptv.com:8000/live/saib/fares/687.m3u8
+#EXTINF:-1,EX YU: PINK FILM
+http://globiptv.com:8000/live/saib/fares/690.m3u8
+#EXTINF:-1,EX YU: PINK 2
+http://globiptv.com:8000/live/saib/fares/692.m3u8
+#EXTINF:-1,EX YU: PINK 3
+http://globiptv.com:8000/live/saib/fares/691.m3u8
+#EXTINF:-1,EX YU: PINK Serije
+http://globiptv.com:8000/live/saib/fares/2572.m3u8
+#EXTINF:-1,EX YU: PINK Kuvar
+http://globiptv.com:8000/live/saib/fares/2573.m3u8m3u8
+#EXTINF:-1,EX YU: PINK Family
+http://globiptv.com:8000/live/saib/fares/2574.m3u8
+#EXTINF:-1,EX YU: PINK Comedy
+http://globiptv.com:8000/live/saib/fares/2575.m3u8
+
 #EXTINF:-0,B92
 http://globiptv.com:8000/live/saib/fares/661.m3u8|User-Agent=Mozilla/5.0
 
