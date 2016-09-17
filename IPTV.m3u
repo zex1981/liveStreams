@@ -14,550 +14,237 @@ skip
 
 #EXTM3U
 
+
+#EXTINF:-1,[COLOR red]--- EX YU ---[/COLOR]
+http://globiptv.com:8000/live/saib/fares/1984.ts
+#EXTINF:-1,EX YU:Viasat Explorer (RS)
+http://globiptv.com:8000/live/saib/fares/2272.ts
+#EXTINF:-1,EX YU: Viasat History (RS)
+http://globiptv.com:8000/live/saib/fares/2273.ts
+#EXTINF:-1,EX YU: VH1
+http://globiptv.com:8000/live/saib/fares/2271.ts
+#EXTINF:-1,EX YU: TV TK
+http://globiptv.com:8000/live/saib/fares/2378.ts
+#EXTINF:-1,EX YU: RTRS
+http://globiptv.com:8000/live/saib/fares/2274.ts
+#EXTINF:-1,EX YU: KCN 1
+http://globiptv.com:8000/live/saib/fares/2277.ts
+#EXTINF:-1,EX YU: KCN 2
+http://globiptv.com:8000/live/saib/fares/2276.ts
+#EXTINF:-1,EX YU: KCN 3
+http://globiptv.com:8000/live/saib/fares/2275.ts
+#EXTINF:-1,EX YU: Kanal 5
+http://globiptv.com:8000/live/saib/fares/2218.ts
+#EXTINF:-1,EX YU: Kanal 5+
+http://globiptv.com:8000/live/saib/fares/2219.ts
+#EXTINF:-1,EX YU: Alfa
+http://globiptv.com:8000/live/saib/fares/2220.ts
+#EXTINF:-1,EX YU: Nova RS
+http://globiptv.com:8000/live/saib/fares/2098.ts
+#EXTINF:-1,EX YU: Nickelodeon (HR)
+http://globiptv.com:8000/live/saib/fares/2103.ts
+#EXTINF:-1,EX YU: Nick Jr. (RS)
+http://globiptv.com:8000/live/saib/fares/2102.ts
+#EXTINF:-1,EX YU: TV 1000 (HR)
+http://globiptv.com:8000/live/saib/fares/2100.ts
+#EXTINF:-1,EX YU: Fight Sports (RS)
+http://globiptv.com:8000/live/saib/fares/2101.ts
+#EXTINF:-1,EX YU: Bosna TV1
+http://globiptv.com:8000/live/saib/fares/2099.ts
+#EXTINF:-1,EX YU: Klasik TV
+http://globiptv.com:8000/live/saib/fares/1954.ts
+#EXTINF:-1,EX YU: Lov I Ribolov
+http://globiptv.com:8000/live/saib/fares/1895.ts
+#EXTINF:-1,EX YU: MTV
+http://globiptv.com:8000/live/saib/fares/1898.ts
+#EXTINF:-1,EX YU: E!
+http://globiptv.com:8000/live/saib/fares/1896.ts
+#EXTINF:-1,EX YU: Al Jazeera
+http://globiptv.com:8000/live/saib/fares/1894.ts
+#EXTINF:-1,EX YU: TV Sarajevo
+http://globiptv.com:8000/live/saib/fares/1800.ts
+#EXTINF:-1,EX YU: BN
+http://globiptv.com:8000/live/saib/fares/1618.ts
+http://globiptv.com:8000/live/saib/fares/1953.ts
+#EXTINF:-1,EX YU: BN Music
+http://globiptv.com:8000/live/saib/fares/1617.ts
+#EXTINF:-1,EX YU: OBN
+http://globiptv.com:8000/live/saib/fares/1621.ts
+#EXTINF:-1,EX YU: N1 TV
+http://globiptv.com:8000/live/saib/fares/1620.ts
+#EXTINF:-1,EX YU: FEDERALNA TV
+http://globiptv.com:8000/live/saib/fares/1619.ts 
+#EXTINF:-1,EX YU:  Arena Sport 1 (SR)
+http://globiptv.com:8000/live/saib/fares/1095.ts 
+#EXTINF:-1,EX YU: Arena Sport 2 (SR)
+http://globiptv.com:8000/live/saib/fares/672.ts 
+#EXTINF:-1,EX YU: Arena Sport 3 (SR)
+http://globiptv.com:8000/live/saib/fares/1092.ts
+#EXTINF:-1,EX YU:  Arena Sport 4 (SR)
+http://globiptv.com:8000/live/saib/fares/1094.ts 
+#EXTINF:-1,EX YU: Arena Sport 5 (SR)
+http://globiptv.com:8000/live/saib/fares/1093.ts 
+#EXTINF:-1,EX YU: Arena Sport 1 HD (HR)
+http://globiptv.com:8000/live/saib/fares/671.ts
+#EXTINF:-1,EX YU: Arena Sport 2 HD (HR)
+http://globiptv.com:8000/live/saib/fares/1091.ts
+#EXTINF:-1,EX YU: Arena Sport 3 HD (HR)
+http://globiptv.com:8000/live/saib/fares/673.ts 
+#EXTINF:-1,EX YU: Arena Sport 4 HD (HR)
+http://globiptv.com:8000/live/saib/fares/674.ts
+#EXTINF:-1,EX YU: ARENA SPORT 5 
+http://globiptv.com:8000/live/saib/fares/675.ts 
+#EXTINF:-1,EX YU: SPORTKLUB 1 HD SR
+http://globiptv.com:8000/live/saib/fares/668.ts 
+#EXTINF:-1,EX YU: SPORTKLUB 2 HD SR
+http://globiptv.com:8000/live/saib/fares/669.ts 
+#EXTINF:-1,EX YU: SPORTKLUB 3 HD SR
+http://globiptv.com:8000/live/saib/fares/670.ts 
+#EXTINF:-1,EX YU: SPORTKLUB 1 HD HR
+http://globiptv.com:8000/live/saib/fares/2375.ts
+#EXTINF:-1,EX YU: SPORTKLUB 2 HD HR
+http://globiptv.com:8000/live/saib/fares/2376.ts 
+#EXTINF:-1,EX YU: SPORTKLUB 3 HD HR
+http://globiptv.com:8000/live/saib/fares/2377.ts
+#EXTINF:-1,EX YU: EUROSPORT
+http://globiptv.com:8000/live/saib/fares/2374.ts 
+#EXTINF:-1,EX YU: EUROSPORT 2
+http://globiptv.com:8000/live/saib/fares/1084.ts 
+#EXTINF:-1,EX YU: Hayat Plus
+http://globiptv.com:8000/live/saib/fares/931.ts 
+#EXTINF:-1,EX YU: Face TV
+http://globiptv.com:8000/live/saib/fares/930.ts 
+#EXTINF:-1,EX YU: BHT1
+http://globiptv.com:8000/live/saib/fares/652.ts
+#EXTINF:-1,EX YU: RTS1
+http://globiptv.com:8000/live/saib/fares/653.ts 
+#EXTINF:-1,EX YU: RTS2
+http://globiptv.com:8000/live/saib/fares/654.ts 
+#EXTINF:-1,EX YU: RTL
+http://globiptv.com:8000/live/saib/fares/659.ts
+#EXTINF:-1,EX YU: RTL 2 
+http://globiptv.com:8000/live/saib/fares/660.ts 
+#EXTINF:-1,EX YU: PRVA TV
+http://globiptv.com:8000/live/saib/fares/662.ts
+#EXTINF:-1,EX YU: PRVA PLUS 
+http://globiptv.com:8000/live/saib/fares/2379.ts
+#EXTINF:-1,EX YU: NOVA TV 
+http://globiptv.com:8000/live/saib/fares/663.ts
+#EXTINF:-1,EX YU: HRT 4
+http://globiptv.com:8000/live/saib/fares/839.ts
+#EXTINF:-1,EX YU: HRT 3
+http://globiptv.com:8000/live/saib/fares/657.ts 
+#EXTINF:-1,EX YU: HRT 2
+http://globiptv.com:8000/live/saib/fares/656.ts 
+#EXTINF:-1,EX YU: HRT 1
+http://globiptv.com:8000/live/saib/fares/655.ts
+#EXTINF:-1,EX YU: GRAND TV 
+http://globiptv.com:8000/live/saib/fares/666.ts
+#EXTINF:-1,EX YU: DOMA TV 
+http://globiptv.com:8000/live/saib/fares/667.ts 
+#EXTINF:-1,EX YU: CRIME & INVESTIGATION
+http://globiptv.com:8000/live/saib/fares/1897.ts 
+#EXTINF:-1,EX YU: DISCOVERY
+http://globiptv.com:8000/live/saib/fares/1085.ts
+#EXTINF:-1,EX YU: NATIONAL GEOGRAPHIC
+http://globiptv.com:8000/live/saib/fares/813.ts
+#EXTINF:-1,EX YU: HISTORY CHANNEL
+http://globiptv.com:8000/live/saib/fares/760.ts 
+#EXTINF:-1,EX YU: HBO COMEDY
+http://globiptv.com:8000/live/saib/fares/693.ts
+#EXTINF:-1,EX YU: HBO Adria
+http://globiptv.com:8000/live/saib/fares/814.ts 
+#EXTINF:-1,EX YU: N1 BiH
+http://globiptv.com:8000/live/saib/fares/810.ts 
+#EXTINF:-1,EX YU: HAYAT TV
+http://globiptv.com:8000/live/saib/fares/665.ts 
+#EXTINF:-1,EX YU: B92
+http://globiptv.com:8000/live/saib/fares/661.ts 
+#EXTINF:-1,EX YU: FOX LIFE
+http://globiptv.com:8000/live/saib/fares/696.ts 
+#EXTINF:-1,EX YU: FOX MOVIES
+http://globiptv.com:8000/live/saib/fares/762.ts 
+#EXTINF:-1,EX YU: FOX CRIME
+http://globiptv.com:8000/live/saib/fares/763.ts 
+#EXTINF:-1,EX YU: FOX
+http://globiptv.com:8000/live/saib/fares/761.ts 
+#EXTINF:-1,EX YU: CMC
+http://globiptv.com:8000/live/saib/fares/811.ts 
 #EXTINF:-1,EX YU: Minimax
-http://globiptv.com:8000/live/saib/fares/812.m3u8
+http://globiptv.com:8000/live/saib/fares/812.ts 
 #EXTINF:-1,EX YU: CINEMAX
-http://globiptv.com:8000/live/saib/fares/694.m3u8
+http://globiptv.com:8000/live/saib/fares/694.ts 
 #EXTINF:-1,EX YU: CINEMAX 2
-http://globiptv.com:8000/live/saib/fares/874.m3u8
+http://globiptv.com:8000/live/saib/fares/874.ts 
 #EXTINF:-1,EX YU: CINESTAR PREMIERE 1
-http://globiptv.com:8000/live/saib/fares/758.m3u8
+http://globiptv.com:8000/live/saib/fares/758.ts 
 #EXTINF:-1,EX YU: CINESTAR PREMIERE 2
-http://globiptv.com:8000/live/saib/fares/695.m3u8
+http://globiptv.com:8000/live/saib/fares/695.ts 
 #EXTINF:-1,EX YU: CINESTAR ACTION
-http://globiptv.com:8000/live/saib/fares/2238.m3u8
+http://globiptv.com:8000/live/saib/fares/2238.ts 
 #EXTINF:-1,EX YU: PINK WORLD
-http://globiptv.com:8000/live/saib/fares/676.m3u8
+http://globiptv.com:8000/live/saib/fares/676.ts 
 #EXTINF:-1,EX YU: PINK WESTERN
-http://globiptv.com:8000/live/saib/fares/677.m3u8
+http://globiptv.com:8000/live/saib/fares/677.ts 
 #EXTINF:-1,EX YU: PINK THRILLER
-http://globiptv.com:8000/live/saib/fares/678.m3u8
+http://globiptv.com:8000/live/saib/fares/678.ts 
 #EXTINF:-1,EX YU: PINK ACTION
-http://globiptv.com:8000/live/saib/fares/1317.m3u8
+http://globiptv.com:8000/live/saib/fares/1317.ts 
 #EXTINF:-1,EX YU: PINK BiH
-http://globiptv.com:8000/live/saib/fares/664.m3u8
+http://globiptv.com:8000/live/saib/fares/664.ts 
 #EXTINF:-1,EX YU: PINK ZABAVA
-http://globiptv.com:8000/live/saib/fares/1086.m3u8
+http://globiptv.com:8000/live/saib/fares/1086.ts 
 #EXTINF:-1,EX YU: PINK CRIME & MYSTERY
-http://globiptv.com:8000/live/saib/fares/757.m3u8
+http://globiptv.com:8000/live/saib/fares/757.ts 
 #EXTINF:-1,EX YU: Pink Pedia
-http://globiptv.com:8000/live/saib/fares/1088.m3u8
+http://globiptv.com:8000/live/saib/fares/1088.ts 
 #EXTINF:-1,EX YU: PINK FOLK
-http://globiptv.com:8000/live/saib/fares/689.m3u8
+http://globiptv.com:8000/live/saib/fares/689.ts 
 #EXTINF:-1,EX YU: PINK FOLK 2
-http://globiptv.com:8000/live/saib/fares/688.m3u8
+http://globiptv.com:8000/live/saib/fares/688.ts 
 #EXTINF:-1,EX YU: Pink Music
-http://globiptv.com:8000/live/saib/fares/1089.m3u8
+http://globiptv.com:8000/live/saib/fares/1089.ts 
 #EXTINF:-1,EX YU: Pink Extra
-http://globiptv.com:8000/live/saib/fares/1087.m3u8
+http://globiptv.com:8000/live/saib/fares/1087.ts 
 #EXTINF:-1,EX YU: PINK SOAP
-http://globiptv.com:8000/live/saib/fares/679.m3u8
+http://globiptv.com:8000/live/saib/fares/679.ts 
 #EXTINF:-1,EX YU: PINK SCI-FI & FANTASY
-http://globiptv.com:8000/live/saib/fares/680.m3u8
-#EXTINF:-1,EX YU: PINK ROMANCE-
-http://globiptv.com:8000/live/saib/fares/681.m3u8
+http://globiptv.com:8000/live/saib/fares/680.ts 
+#EXTINF:-1,EX YU: PINK ROMANCE
+http://globiptv.com:8000/live/saib/fares/681.ts 
 #EXTINF:-1,EX YU: PINK Movies
-http://globiptv.com:8000/live/saib/fares/1802.m3u8
+http://globiptv.com:8000/live/saib/fares/1802.ts 
 #EXTINF:-1,EX YU: PINK REALITY
-http://globiptv.com:8000/live/saib/fares/682.m3u8
+http://globiptv.com:8000/live/saib/fares/682.ts 
 #EXTINF:-1,EX YU: PINK PREMIUM
-http://globiptv.com:8000/live/saib/fares/683.m3u8
+http://globiptv.com:8000/live/saib/fares/683.ts 
 #EXTINF:-1,EX YU: PINK PLUS
-http://globiptv.com:8000/live/saib/fares/684.m3u8
+http://globiptv.com:8000/live/saib/fares/684.ts 
 #EXTINF:-1,EX YU: PINK M
-http://globiptv.com:8000/live/saib/fares/685.m3u8
+http://globiptv.com:8000/live/saib/fares/685.ts 
 #EXTINF:-1,EX YU: PINK KIDS
-http://globiptv.com:8000/live/saib/fares/686.m3u8
-#EXTINF:-1,EX YU: PINK HOROR
-http://globiptv.com:8000/live/saib/fares/687.m3u8
+http://globiptv.com:8000/live/saib/fares/686.ts 
+#EXTINF:-1,EX YU: PINK Horror
+http://globiptv.com:8000/live/saib/fares/687.ts 
 #EXTINF:-1,EX YU: PINK FILM
-http://globiptv.com:8000/live/saib/fares/690.m3u8
+http://globiptv.com:8000/live/saib/fares/690.ts 
 #EXTINF:-1,EX YU: PINK 2
-http://globiptv.com:8000/live/saib/fares/692.m3u8
+http://globiptv.com:8000/live/saib/fares/692.ts 
 #EXTINF:-1,EX YU: PINK 3
-http://globiptv.com:8000/live/saib/fares/691.m3u8
+http://globiptv.com:8000/live/saib/fares/691.ts 
 #EXTINF:-1,EX YU: PINK Serije
-http://globiptv.com:8000/live/saib/fares/2572.m3u8
+http://globiptv.com:8000/live/saib/fares/2572.ts 
 #EXTINF:-1,EX YU: PINK Kuvar
-http://globiptv.com:8000/live/saib/fares/2573.m3u8m3u8
+http://globiptv.com:8000/live/saib/fares/2573.ts 
 #EXTINF:-1,EX YU: PINK Family
-http://globiptv.com:8000/live/saib/fares/2574.m3u8
+http://globiptv.com:8000/live/saib/fares/2574.ts 
 #EXTINF:-1,EX YU: PINK Comedy
-http://globiptv.com:8000/live/saib/fares/2575.m3u8
-
-#EXTINF:-0,B92
-http://globiptv.com:8000/live/saib/fares/661.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,24sataTV
-http://cdn.iptv.amis.net/ts/24SATA/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,AKanal
-http://cdn.iptv.amis.net/ts/24sataTV/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,Animal
-http://cdn.iptv.amis.net/ts/AKanal/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,AnimalPlanet
-http://cdn.iptv.amis.net/ts/Animal/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,AntenaZagreb
-http://cdn.iptv.amis.net/ts/AnimalPlanet/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,BBCKNOWLEDGE
-http://cdn.iptv.amis.net/ts/AntenaZagreb/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,BBCKnowledge
-http://cdn.iptv.amis.net/ts/BBCKNOWLEDGE/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,BLOOMBERG
-http://cdn.iptv.amis.net/ts/BBCKnowledge/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,BabyTV
-http://cdn.iptv.amis.net/ts/BLOOMBERG/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,Bloomberg
-http://cdn.iptv.amis.net/ts/BabyTV/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,Boomerang
-http://cdn.iptv.amis.net/ts/Bloomberg/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,Brio
-http://cdn.iptv.amis.net/ts/Boomerang/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,CBSReality
-http://cdn.iptv.amis.net/ts/Brio/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,CMC
-http://cdn.iptv.amis.net/ts/CBSReality/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,CNN
-http://cdn.iptv.amis.net/ts/CMC/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,CRODISNEY
-http://cdn.iptv.amis.net/ts/CNN/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,CRODOQ
-http://cdn.iptv.amis.net/ts/CRODISNEY/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,CROEXPLORER
-http://cdn.iptv.amis.net/ts/CRODOQ/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,CROGINX
-http://cdn.iptv.amis.net/ts/CROEXPLORER/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,CROHALLMARK
-http://cdn.iptv.amis.net/ts/CROGINX/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,CROHISTORY
-http://cdn.iptv.amis.net/ts/CROHALLMARK/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,CROHISTORYCH
-http://cdn.iptv.amis.net/ts/CROHISTORY/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,CRONATGEOW
-http://cdn.iptv.amis.net/ts/CROHISTORYCH/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,CROREALITY
-http://cdn.iptv.amis.net/ts/CRONATGEOW/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,CROTRAVEL
-http://cdn.iptv.amis.net/ts/CROREALITY/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,Carli
-http://cdn.iptv.amis.net/ts/CROTRAVEL/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,CarliTV
-http://cdn.iptv.amis.net/ts/Carli/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,Cartoon
-http://cdn.iptv.amis.net/ts/CarliTV/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,CartoonTCM
-http://cdn.iptv.amis.net/ts/Cartoon/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,DISCTLC
-http://cdn.iptv.amis.net/ts/CartoonTCM/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,DOQ
-http://cdn.iptv.amis.net/ts/DISCTLC/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,DSF
-http://cdn.iptv.amis.net/ts/DOQ/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,DaVinciLear
-http://cdn.iptv.amis.net/ts/DSF/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,DaVinciLearning
-http://cdn.iptv.amis.net/ts/DaVinciLear/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,Discovery
-http://cdn.iptv.amis.net/ts/DaVinciLearning/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,DiscoveryChannel
-http://cdn.iptv.amis.net/ts/Discovery/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,DiscoveryID
-http://80.80.160.168/live/5/live.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,Disney
-http://cdn.iptv.amis.net/ts/DiscoveryChannel/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,DisneyChannel
-http://cdn.iptv.amis.net/ts/Disney/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,DisneyChannelCRO
-http://cdn.iptv.amis.net/ts/DisneyChannel/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,DisneyXD
-http://cdn.iptv.amis.net/ts/DisneyChannelCRO/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,Eurosport
-http://cdn.iptv.amis.net/ts/DisneyXD/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,Explorer
-http://cdn.iptv.amis.net/ts/Eurosport/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,Extreme
-http://cdn.iptv.amis.net/ts/Explorer/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,FOXCRIMEHRVATSKA
-http://cdn.iptv.amis.net/ts/Extreme/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,FOXLIFEHRVATSKA
-http://cdn.iptv.amis.net/ts/FOXCRIMEHRVATSKA/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,Fashion
-http://cdn.iptv.amis.net/ts/FOXLIFEHRVATSKA/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,FoxCrime
-http://cdn.iptv.amis.net/ts/Fashion/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,FoxCrimeCRO
-http://cdn.iptv.amis.net/ts/FoxCrime/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,FoxLife
-http://cdn.iptv.amis.net/ts/FoxCrimeCRO/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,FoxLifeCRO
-http://cdn.iptv.amis.net/ts/FoxLife/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,Free-X_TV
-http://cdn.iptv.amis.net/ts/FoxLifeCRO/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,Frenchlover
-http://cdn.iptv.amis.net/ts/Free-X_TV/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,Ginx
-http://cdn.iptv.amis.net/ts/Frenchlover/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,GinxCRO
-http://cdn.iptv.amis.net/ts/Ginx/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,Golica
-http://cdn.iptv.amis.net/ts/GinxCRO/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,HRT1
-http://cdn.iptv.amis.net/ts/Golica/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,HRT2
-http://cdn.iptv.amis.net/ts/HRT1/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,HRT3
-http://cdn.iptv.amis.net/ts/HRT2/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,Hallmark
-http://cdn.iptv.amis.net/ts/HRT3/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,Hayat
-http://cdn.iptv.amis.net/ts/Hallmark/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,History
-http://cdn.iptv.amis.net/ts/Hayat/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,HistoryCh
-http://cdn.iptv.amis.net/ts/History/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,HistoryChannel
-http://cdn.iptv.amis.net/ts/HistoryCh/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,HistoryChannelCRO
-http://cdn.iptv.amis.net/ts/HistoryChannel/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,Hrt1
-http://cdn.iptv.amis.net/ts/HistoryChannelCRO/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,Hrt2
-http://cdn.iptv.amis.net/ts/Hrt1/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,HrvatskiKatolickiRadio
-http://cdn.iptv.amis.net/ts/Hrt2/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,HrvatskiRadio1
-http://cdn.iptv.amis.net/ts/HrvatskiKatolickiRadio/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,HrvatskiRadio2
-http://cdn.iptv.amis.net/ts/HrvatskiRadio1/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,HrvatskiRadio3
-http://cdn.iptv.amis.net/ts/HrvatskiRadio2/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,ICONCERTS
-http://cdn.iptv.amis.net/ts/HrvatskiRadio3/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,Info
-http://cdn.iptv.amis.net/ts/ICONCERTS/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,Jetix
-http://cdn.iptv.amis.net/ts/Info/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,KLASIKTV
-http://cdn.iptv.amis.net/ts/Jetix/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,KanalA
-http://cdn.iptv.amis.net/ts/KLASIKTV/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,KlasikTV
-http://cdn.iptv.amis.net/ts/KanalA/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,MTV
-http://cdn.iptv.amis.net/ts/KlasikTV/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,MTVAdria
-http://cdn.iptv.amis.net/ts/MTV/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,Mezzo
-http://cdn.iptv.amis.net/ts/MTVAdria/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,Minimax
-http://cdn.iptv.amis.net/ts/Mezzo/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,NGCCROATIA
-http://cdn.iptv.amis.net/ts/Minimax/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,NGCCroatia
-http://cdn.iptv.amis.net/ts/NGCCROATIA/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,NGCWild
-http://cdn.iptv.amis.net/ts/NGCCroatia/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,NGCWildCRO
-http://cdn.iptv.amis.net/ts/NGCWild/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,NarodniRadio
-http://cdn.iptv.amis.net/ts/NGCWildCRO/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,NatGeo
-http://cdn.iptv.amis.net/ts/NarodniRadio/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,NatGeoW
-http://cdn.iptv.amis.net/ts/NatGeo/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,Nickleodeon
-http://cdn.iptv.amis.net/ts/NatGeoW/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,ORF1
-http://cdn.iptv.amis.net/ts/Nickleodeon/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,OUTDOOR
-http://cdn.iptv.amis.net/ts/ORF1/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,Orf1
-http://cdn.iptv.amis.net/ts/OUTDOOR/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,OtvoreniRadio
-http://cdn.iptv.amis.net/ts/Orf1/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,OutdoorChannel
-http://cdn.iptv.amis.net/ts/OtvoreniRadio/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,PinkSi
-http://cdn.iptv.amis.net/ts/OutdoorChannel/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,PinkTV3
-http://cdn.iptv.amis.net/ts/PinkSi/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,PlanetTV
-http://cdn.iptv.amis.net/ts/PinkTV3/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,PopKino
-http://cdn.iptv.amis.net/ts/PlanetTV/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,PopOto
-http://cdn.iptv.amis.net/ts/PopKino/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,PopTV
-http://cdn.iptv.amis.net/ts/PopOto/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,Pro7
-http://cdn.iptv.amis.net/ts/PopTV/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,RAI1
-http://cdn.iptv.amis.net/ts/Pro7/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,RTL
-http://cdn.iptv.amis.net/ts/RAI1/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,RTL2
-http://cdn.iptv.amis.net/ts/RTL/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,RTL2Hrvatska
-http://cdn.iptv.amis.net/ts/RTL2/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,RTLHRVATSKA
-http://cdn.iptv.amis.net/ts/RTL2Hrvatska/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,RTLHRVATSKA2
-http://cdn.iptv.amis.net/ts/RTLHRVATSKA/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,RTLHrvatska
-http://cdn.iptv.amis.net/ts/RTLHRVATSKA2/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,RTLPLUS
-http://cdn.iptv.amis.net/ts/RTLHrvatska/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,RTLplus
-http://cdn.iptv.amis.net/ts/RTLPLUS/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,RTS
-http://cdn.iptv.amis.net/ts/RTLplus/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,RTSrbije
-http://cdn.iptv.amis.net/ts/RTS/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,Radio1
-http://cdn.iptv.amis.net/ts/RTSrbije/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,RadioARS
-http://cdn.iptv.amis.net/ts/Radio1/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,RadioAktual
-http://cdn.iptv.amis.net/ts/RadioARS/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,RadioAntena
-http://cdn.iptv.amis.net/ts/RadioAktual/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,RadioCapodistria
-http://cdn.iptv.amis.net/ts/RadioAntena/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,RadioCenter
-http://cdn.iptv.amis.net/ts/RadioCapodistria/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,RadioCity
-http://cdn.iptv.amis.net/ts/RadioCenter/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,RadioExpress
-http://cdn.iptv.amis.net/ts/RadioCity/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,RadioHit
-http://cdn.iptv.amis.net/ts/RadioExpress/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,RadioKranj
-http://cdn.iptv.amis.net/ts/RadioHit/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,RadioOgnjisce
-http://cdn.iptv.amis.net/ts/RadioKranj/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,RadioRSI
-http://cdn.iptv.amis.net/ts/RadioOgnjisce/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,RadioSljeme
-http://cdn.iptv.amis.net/ts/RadioRSI/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,RadioSlo1
-http://cdn.iptv.amis.net/ts/RadioSljeme/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,RadioVal202
-http://cdn.iptv.amis.net/ts/RadioSlo1/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,RadioZeleniVal
-http://cdn.iptv.amis.net/ts/RadioVal202/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,Rai1
-http://cdn.iptv.amis.net/ts/RadioZeleniVal/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,Reality
-http://cdn.iptv.amis.net/ts/Rai1/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,S1
-http://cdn.iptv.amis.net/ts/Reality/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,S2
-http://cdn.iptv.amis.net/ts/S1/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,SPORTSKATELEVIZIJA
-http://cdn.iptv.amis.net/ts/S2/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,Slo1
-http://cdn.iptv.amis.net/ts/SPORTSKATELEVIZIJA/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,Slo2
-http://cdn.iptv.amis.net/ts/Slo1/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,Slo3
-http://cdn.iptv.amis.net/ts/Slo2/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,SoundsetRadio
-http://cdn.iptv.amis.net/ts/Slo3/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,Sport1
-http://cdn.iptv.amis.net/ts/SoundsetRadio/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,SportKlub
-http://cdn.iptv.amis.net/ts/Sport1/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,SportKlub2
-http://cdn.iptv.amis.net/ts/SportKlub/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,SportskaTelevizija
-http://cdn.iptv.amis.net/ts/SportKlub2/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,TLC
-http://cdn.iptv.amis.net/ts/SportskaTelevizija/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,TV
-http://cdn.iptv.amis.net/ts/TLC/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,TVGolica
-http://cdn.iptv.amis.net/ts/TV/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,Test1
-http://cdn.iptv.amis.net/ts/TVGolica/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,Test2
-http://cdn.iptv.amis.net/ts/Test1/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,Travel
-http://cdn.iptv.amis.net/ts/Test2/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,TravelChannel
-http://cdn.iptv.amis.net/ts/Travel/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,TravelChannelCRO
-http://cdn.iptv.amis.net/ts/TravelChannel/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,UniversalChannel
-http://cdn.iptv.amis.net/ts/TravelChannelCRO/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,UniversalChannelCRO
-http://cdn.iptv.amis.net/ts/UniversalChannel/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,VH1
-http://cdn.iptv.amis.net/ts/UniversalChannelCRO/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,ViasatExplorer
-http://cdn.iptv.amis.net/ts/VH1/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,ViasatExplorerCRO
-http://cdn.iptv.amis.net/ts/ViasatExplorer/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,ViasatHistory
-http://cdn.iptv.amis.net/ts/ViasatExplorerCRO/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,ViasatHistoryCRO
-http://cdn.iptv.amis.net/ts/ViasatHistory/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,XDREAM
-http://cdn.iptv.amis.net/ts/ViasatHistoryCRO/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-
-#EXTINF:0,ZoneReality
-http://cdn.iptv.amis.net/ts/XDREAM/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
+http://globiptv.com:8000/live/saib/fares/2575.ts 
+#EXTINF:-1,EX YU: +18 pink_erotica 1
+http://globiptv.com:8000/live/saib/fares/793.ts 
+#EXTINF:-1,EX YU: +18 pink_erotica 2
+http://globiptv.com:8000/live/saib/fares/792.ts 
+#EXTINF:-1,EX YU: +18 pink_erotica3
+http://globiptv.com:8000/live/saib/fares/791.ts 
+#EXTINF:-1,EX YU: +18 pink_erotica 4
+http://globiptv.com:8000/live/saib/fares/790.ts 
