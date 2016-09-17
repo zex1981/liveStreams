@@ -64,8 +64,9 @@ http://globiptv.com:8000/live/saib/fares/1894.ts
 #EXTINF:-1,EX YU: TV Sarajevo
 http://globiptv.com:8000/live/saib/fares/1800.ts
 #EXTINF:-1,EX YU: BN
-http://globiptv.com:8000/live/saib/fares/1618.ts
 http://globiptv.com:8000/live/saib/fares/1953.ts
+#EXTINF:-1,EX YU: BH
+http://globiptv.com:8000/live/saib/fares/1618.ts
 #EXTINF:-1,EX YU: BN Music
 http://globiptv.com:8000/live/saib/fares/1617.ts
 #EXTINF:-1,EX YU: OBN
