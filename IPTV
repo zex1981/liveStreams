@@ -4,7 +4,7 @@
 #EXTINF:-1 tvg-id="RTS 1" tvg-name="RTS 1" tvg-logo="https://www.d3go.tv/twintv3_proxy/iview/MobileDevices/919/images/-778528420_180x93.png" group-title="Group 1",RTS
 http://fra1.ddns.net:97/live/test/test/20.m3u8|User-Agent=Mozilla/5.0
 
-#EXTINF:-1 tvg-id="HTV1" tvg-name="HTV1" tvg-logo="https://www.d3go.tv/twintv3_proxy/iview/MobileDevices/916/images/25567822_180x93.png" group-title="Group 1",HTV1
+#EXTINF:-1 tvg-id="HRT 1" tvg-name="HRT 1" tvg-logo="https://www.d3go.tv/twintv3_proxy/iview/MobileDevices/916/images/25567822_180x93.png" group-title="Group 1",HTV1
 http://cdn.iptv.amis.net/LIVE/HRT1/stream_wifi_840k.m3u8|User-Agent=Mozilla/5.0
 
 #EXTM3U tvg-shift=3
